@@ -1,13 +1,14 @@
 <div id="header" align="center">
 
-##                            <h1 class="text-center d-flex"> Hola soy Jesús Rodríguez👋 </h1>
+ ##                      Hola soy Jesús Rodríguez👋 
+ </h1>
  </div>
 
 <div id="header" align="center">
 <picture class="w-25">
- <source media="(prefers-color-scheme: dark) alt="bootstrap" width="400" height="400"" srcset="https://github.com/jesuse2r/jesuse2r/assets/119432601/771a4b21-8f8e-45ad-95b8-c45334babe98">
- <source media="(prefers-color-scheme: light) alt="bootstrap" width="400" height="400"" srcset="https://github.com/jesuse2r/jesuse2r/assets/119432601/771a4b21-8f8e-45ad-95b8-c45334babe98">
- <img alt="YOUR-ALT-TEXT alt="bootstrap" width="400" height="400" " src="https://github.com/jesuse2r/jesuse2r/assets/119432601/771a4b21-8f8e-45ad-95b8-c45334babe98">
+ <source media="(prefers-color-scheme: dark) alt="bootstrap" width="400" height="400"" srcset="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+ <source media="(prefers-color-scheme: light) alt="bootstrap" width="400" height="400"" srcset="[https://github.com/jesuse2r/jesuse2r/assets/119432601/771a4b21-8f8e-45ad-95b8-c45334babe98](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)">
+ <img alt="YOUR-ALT-TEXT alt="bootstrap" width="400" height="400" " src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
   
 </picture>
  </div>
@@ -18,10 +19,20 @@
 <li>Desarrollador de Software, en busca de mejorar habilidades y aprender lo mas rápido posible.</li>
   <li> En formación de nuevos conocimientos para la mejora de mis habilidades personales</li>
 <li>Siempre más es mejor, respeto, humildad y pasión es lo que me define.</li>
+
+<h3 align="left">Frase:</h3>
+<p align="left">
+<p> "Controlar la complejidad es la esencia de la programación"
+-- Brian Kernigan </p>
+
+</p>
+</p>
+
 <h3 align="left">Contáctame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jesus-rodriguez-62a28316b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus-rodriguez" height="30" width="40" /></a>
 </p>
+
 
 
 
