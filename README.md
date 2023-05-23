@@ -1,13 +1,16 @@
-
+<div id="header" align="center">
 
 ##                            <h1 class="text-center d-flex"> Hola soy Jesús Rodríguez👋 </h1>
+ </div>
 
+<div id="header" align="center">
 <picture class="w-25">
  <source media="(prefers-color-scheme: dark) alt="bootstrap" width="400" height="400"" srcset="https://github.com/jesuse2r/jesuse2r/assets/119432601/771a4b21-8f8e-45ad-95b8-c45334babe98">
  <source media="(prefers-color-scheme: light) alt="bootstrap" width="400" height="400"" srcset="https://github.com/jesuse2r/jesuse2r/assets/119432601/771a4b21-8f8e-45ad-95b8-c45334babe98">
  <img alt="YOUR-ALT-TEXT alt="bootstrap" width="400" height="400" " src="https://github.com/jesuse2r/jesuse2r/assets/119432601/771a4b21-8f8e-45ad-95b8-c45334babe98">
   
 </picture>
+ </div>
  
 
 
@@ -16,9 +19,10 @@
   <li> En formación de nuevos conocimientos para la mejora de mis habilidades personales</li>
 <li>Siempre más es mejor, respeto, humildad y pasión es lo que me define.</li>
 
+<p align="left">
+<a href="https://linkedin.com/in/jesuse2r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesuse2r" height="30" width="40" /></a>
+</p>
 
-<link>https://www.linkedin.com/in/jesus-rodriguez-62a28316b/</link>
-<i class="fa-brands fa-linkedin"></i>
 <picture>
  <source media="(prefers-color-scheme: dark)alt="bootstrap" width="50" height="50"" srcset="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
  <source media="(prefers-color-scheme: light) alt="bootstrap" width="50" height="50"" srcset="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
