@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
- ##                      Hola soy Jesús Rodríguez <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  height="50" width="50" />
+ ##                      Hola soy Jesús Rodríguez👋
  </h1>
  </div>
 
