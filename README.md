@@ -1,14 +1,15 @@
 <div id="header" align="center">
 
- ##                      Hola soy Jesús Rodríguez👋 
+ ##                      Hola soy Jesús Rodríguez <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  height="50" width="50" />
  </h1>
  </div>
 
+
 <div id="header" align="center">
 <picture class="w-25">
- <source media="(prefers-color-scheme: dark) alt="bootstrap" width="400" height="400"" srcset="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
- <source media="(prefers-color-scheme: light) alt="bootstrap" width="400" height="400"" srcset="[https://github.com/jesuse2r/jesuse2r/assets/119432601/771a4b21-8f8e-45ad-95b8-c45334babe98](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)">
- <img alt="YOUR-ALT-TEXT alt="bootstrap" width="400" height="400" " src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+ <source media="(prefers-color-scheme: dark) alt="bootstrap" width="400" height="400"" srcset="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif">
+ <source media="(prefers-color-scheme: light) alt="bootstrap" width="400" height="400"" srcset="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif">
+ <img alt="YOUR-ALT-TEXT alt="bootstrap" width="400" height="400" " src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif">
   
 </picture>
  </div>
@@ -23,10 +24,12 @@
 <h3 align="left">Frase:</h3>
 <p align="left">
 <p> "Controlar la complejidad es la esencia de la programación"
--- Brian Kernigan </p>
+-- Brian Kernigan 
+ <img align="center" src="https://media.giphy.com/media/dvsjHZc6P3oozpp9I4/giphy.gif"  height="50" width="50" />
+</p>
 
 </p>
-</p>
+
 
 <h3 align="left">Contáctame:</h3>
 <p align="left">
